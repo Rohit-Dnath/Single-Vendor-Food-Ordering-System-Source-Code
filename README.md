@@ -13,4 +13,4 @@ contact- instagram/r0dth
 
 
 Admin Usename: admin
-Admin Password: admin
+|| Admin Password: admin
