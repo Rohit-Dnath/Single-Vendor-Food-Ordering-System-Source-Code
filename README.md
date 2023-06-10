@@ -9,3 +9,8 @@ This Is Made With-
 
 for more info-
 contact- instagram/r0dth
+
+
+
+Admin Usename: admin
+Admin Password: admin
